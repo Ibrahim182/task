@@ -1,0 +1,30 @@
+*
+{
+    margin:0;
+    padding:0;
+}
+.jumbotron
+{
+    background-color:#62c392;
+}
+form
+{
+    margin:auto;
+    width:40%;
+}
+.message
+{
+    height:10%;
+}
+.bg
+{
+    background-color:#62c392;
+}
+code
+{
+    color:#62c392;
+}
+.icon
+{
+    font-size:30px;
+}
